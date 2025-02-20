@@ -10,6 +10,8 @@
 5. Refresh Ren'Py's projects
 6. Load the project, and run it with "Launch Project"
 
+You will also need to download the images and place them in game/images. There's a curl script you can run by opening a terminal and running "./get-images.sh" in the same directory as the script. This will download the images. You then need to place them in game/images. Currently, there is only the background images, so you should created a folder in images called "backgrounds" and place the images in there.
+
 ## Project Overview
 This dating sim reimagines Linux distros as charismatic entities within the Kernel Kingdom. Players navigate relationships with Ubuntu, Fedora, Arch Linux, Debian, and Linux Mint through branching dialogue and stat-based  
 compatibility.
