@@ -1,0 +1,7 @@
+.env
+*.txt
+game/saves
+game/cache
+.vscode
+.aider*
+game/images
